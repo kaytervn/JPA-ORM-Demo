@@ -53,9 +53,11 @@
 </persistence>
 ```
 
-**6.** Run As -> Maven clean/ Maven verify.
+**6.** Create database named "JPA_db2" in MySQL Workbench.
 
-**7.** Persist the JPA Entity.
+**7.** Run As -> Maven clean/ Maven verify.
+
+**8.** Persist the JPA Entity.
 
 ```java
 public class PersistStudent {
@@ -91,3 +93,7 @@ public class PersistStudent {
 	}
 }
 ```
+
+**9.** Run As -> Java Aplication.
+
+<i><b>Not working:</b> refresh file `pom.xml`, file `persistence.xml`, clean and verify Maven</i>
