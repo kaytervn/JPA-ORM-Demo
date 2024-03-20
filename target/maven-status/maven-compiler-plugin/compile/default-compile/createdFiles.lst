@@ -1,0 +1,5 @@
+com\javatpoint\jpa\persist\DeleteStudent.class
+com\javatpoint\jpa\persist\PersistStudent.class
+com\javatpoint\jpa\persist\UpdateStudent.class
+com\javatpoint\jpa\student\StudentEntity.class
+com\javatpoint\jpa\persist\FindStudent.class
