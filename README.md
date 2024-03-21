@@ -97,3 +97,4 @@ public class PersistStudent {
 **9.** Run As -> Java Aplication.
 
 <i><b>Not working?:</b> refresh file `pom.xml`, file `persistence.xml`, clean and verify Maven</i>
+<i><b>One to Many:</b> replace command `persist` with the command `merge`</i>
